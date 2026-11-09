@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Gambi_OS Updates</title>
+    <link>https://github.com/gambidrissi-dev/Gambi_OS-Share</link>
+    <description>Mises à jour de Gambi_OS</description>
+    <item>
+      <title>Version 2.1.0</title>
+      <description><![CDATA[
+<h3>Page de téléchargement : zips Notch et Dock</h3>
+      ]]></description>
+      <pubDate>Mon, 09 Nov 2026 00:20:05 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Gambi_OS-Share/releases/download/v2.1.0/Gambi_OS-2.1.0.zip"
+                 sparkle:edSignature="Qh9PnWta8gjQ4vKpJsVUJNNMoGJdOzLrhyJw799e5uihZxOGRYQxa7A5WVblMtOiN+RXsCac+lkdqeipJDs2Cg=="
+                 length="1520999"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
