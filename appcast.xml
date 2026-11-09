@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Gambi_OS-Share</link>
     <description>Mises à jour de Gambi_OS</description>
     <item>
+      <title>Version 2.1.1</title>
+      <description><![CDATA[
+<h3>Gambi_OS ne propose plus Halo : il rejoint la suite Collectif Cobalt</h3>
+      ]]></description>
+      <pubDate>Mon, 09 Nov 2026 01:31:21 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Gambi_OS-Share/releases/download/v2.1.1/Gambi_OS-2.1.1.zip"
+                 sparkle:edSignature="ICfRGX7IlwFwj1t4OBlyTMXt8QJ7mIqfESktMckqr/BSnPe28bZxZ1QgymqlU4SBnL32nDQcPaOf0VfoWe0FDQ=="
+                 length="1416258"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.1.0</title>
       <description><![CDATA[
 <h3>Page de téléchargement : zips Notch et Dock</h3>
